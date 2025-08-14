@@ -239,7 +239,7 @@
     <div class="grid-2">
       <div>
         <strong>Fam Homestay</strong><br>
-        Waigeo Barat Kepulauan, Kab. Raja Ampat, Papua Barat Daya<br>
+        Fam Islands, Papua Bar., Indonesia(Fam Islands, Papua Bar., Indonesia) <br>
         WA: <a id="waFooter" href="https://wa.me/6285396306439" target="_blank">+62 853-9630-6439</a><br>
         Email: <a href="mailto:">—</a>
       </div>
