@@ -101,7 +101,7 @@
         <div class="badges">
           <span class="badge">Dekat spot snorkeling</span>
           <span class="badge">Antar-jemput boat*</span>
-          <span class="badge">Kopi & teh free</span>
+          <span class="badge">makanan yang lezat</span>
         </div>
         <div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap">
           <a class="btn" href="#booking">Cek Ketersediaan</a>
