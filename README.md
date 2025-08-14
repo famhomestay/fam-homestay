@@ -124,7 +124,7 @@
         </div>
         <div class="card feature">
           <h3>Layanan</h3>
-          <p>Trip ke Pyainemo & telaga bintang, snorkeling di melisa garden,famwol,keruwo,andau kecil dan masi banyak tempat snorkleling lainnya ,sarapan pagi , makan siang & makan malam.</p>
+          <p>Trip ke Pyainemo & telaga bintang, snorkeleling , sarapan pagi , makan siang & makan malam.</p>
         </div>
       </div>
     </section>
