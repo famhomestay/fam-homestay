@@ -402,16 +402,3 @@
   </script>
 </body>
 </html>
-
-<section id="lokasi">
-    <h2>Lokasi Kami</h2>
-    <p>Fam Homestay - Raja Ampat</p>
-    <iframe 
-        src=https://maps.app.goo.gl/dA2oCYh6kCdXWXGy8
-        width="100%" 
-        height="350" 
-        style="border:0;" 
-        allowfullscreen="" 
-        loading="lazy">
-    </iframe>
-</section>
